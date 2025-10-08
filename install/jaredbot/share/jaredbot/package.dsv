@@ -1,0 +1,8 @@
+source;share/jaredbot/hook/cmake_prefix_path.ps1
+source;share/jaredbot/hook/cmake_prefix_path.dsv
+source;share/jaredbot/hook/cmake_prefix_path.sh
+source;share/jaredbot/local_setup.bash
+source;share/jaredbot/local_setup.dsv
+source;share/jaredbot/local_setup.ps1
+source;share/jaredbot/local_setup.sh
+source;share/jaredbot/local_setup.zsh

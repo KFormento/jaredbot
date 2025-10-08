@@ -1,0 +1,6 @@
+Invoking command in '/home/kevin/ros2_ws/src/jaredbot/build/jaredbot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kevin/ros2_ws/src/jaredbot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kevin/ros2_ws/src/jaredbot/install/jaredbot
+Invoked command in '/home/kevin/ros2_ws/src/jaredbot/build/jaredbot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kevin/ros2_ws/src/jaredbot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kevin/ros2_ws/src/jaredbot/install/jaredbot
+Invoking command in '/home/kevin/ros2_ws/src/jaredbot/build/jaredbot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kevin/ros2_ws/src/jaredbot/build/jaredbot -- -j12 -l12
+Invoked command in '/home/kevin/ros2_ws/src/jaredbot/build/jaredbot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kevin/ros2_ws/src/jaredbot/build/jaredbot -- -j12 -l12
+Invoking command in '/home/kevin/ros2_ws/src/jaredbot/build/jaredbot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kevin/ros2_ws/src/jaredbot/build/jaredbot
+Invoked command in '/home/kevin/ros2_ws/src/jaredbot/build/jaredbot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kevin/ros2_ws/src/jaredbot/build/jaredbot

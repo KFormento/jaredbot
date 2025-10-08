@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/config/empty.yaml
+-- Symlinking: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/description/robot_core.xacro
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/launch/rsp.launch.py
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/worlds/empty.world
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/ament_index/resource_index/package_run_dependencies/jaredbot
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/ament_index/resource_index/parent_prefix_path/jaredbot
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/environment/path.sh
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/environment/path.dsv
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/local_setup.bash
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/local_setup.sh
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/local_setup.zsh
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/local_setup.dsv
+-- Symlinking: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/package.dsv
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/ament_index/resource_index/packages/jaredbot
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/cmake/jaredbotConfig.cmake
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/cmake/jaredbotConfig-version.cmake
+-- Up-to-date symlink: /home/kevin/ros2_ws/src/jaredbot/install/jaredbot/share/jaredbot/package.xml

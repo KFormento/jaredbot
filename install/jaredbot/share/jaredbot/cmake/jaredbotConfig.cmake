@@ -1,0 +1,1 @@
+/home/kevin/ros2_ws/src/jaredbot/build/jaredbot/ament_cmake_core/jaredbotConfig.cmake
